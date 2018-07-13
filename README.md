@@ -1,7 +1,9 @@
 # Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos:
 
-Oi! Tudo bem? Estou muito contente em saber que você está interessado de realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
-Sou uma Palestrante Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram por abrir uma **[ISSUE](https://github.com/glaucia86/presenter-glaucia-lemos/issues)** aqui nesse repositório, caso queiram ou desejam uma palestra ou workshop meu 💕💕!
+Oi! Tudo bem? Estou muito contente em saber que você está interessado deu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
+Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam abrir uma **[ISSUE](https://github.com/glaucia86/presenter-glaucia-lemos/issues)** aqui nesse repositório, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
+
+Vamos alguns pontos?!
 
 
 ## 💾 Informações Pessoais:
@@ -29,21 +31,20 @@ Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui v
 ## ⚡️ Mini Bio: Glaucia Lemos
 
 
-<p align="left">
+<p align="center">
   <img src="https://i.imgsafe.org/8e/8e95f00340.png"/>  
 </p>
 > Software Engineer & Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
-Trabalhando com diferentes tecnologias e frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, JQuery, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como **[Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI)**. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é **[Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/)**, **[Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/)** e **[Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/)**.
+Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como **[Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI)**. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é **[Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/)**, **[Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/)** e **[Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/)**.
 
 
-## 📣 Estou disponível para...
+## 📣 Estou Disponível para...
 
  - ✅ Keynotes 
  - ✅ Palestras 
  - ✅ Lightning Talks
  - ✅ Workshops
  - ✅ Panéis
- - ✅ Série de Vídeos
  - ✅ Webinars
  - ✅ Mentoria
  - ✅ Meetups
@@ -104,7 +105,7 @@ Aqui vai uma lista de participações e eventos que já pude o prazer de realiza
 
 Aqui vão alguns itens do que farei, caso seja a convidada para palestras no seu evento:
 
-- ✔️ **Entrega de palestras de acordo com o público-alvo**: eu costumo realizar palestras técnicas voltadas a públicos de nível: iniciante à intermediário.
+- ✔️ **Entrega de palestras de acordo com o público-alvo**: eu costumo realizar palestras técnicas voltadas a públicos de nível: iniciante à intermediário. 
 - ✔️ **Palestras dinâmicas e interativas**: sim... hoje em dia, para que possamos captar a atenção do público, precisamos interagir e muito com o público. Assim que, durante as minhas palestras, sempre quando o tempo me permite, procuro me interagir bastante com o público e entreter-los também, por meio de apresentações cativantes e cheios de memes! 😁
 - ✔️ **Palestras com demos, demos e muitos demos**: palestra técnica sem demo... não rola! Assim que sim! Nas minhas palestras estarei envolvendo o público com exemplos práticos de acordo com o tema.
 - ✔️ **Publicação dos slides e códigos via GitHub**: para que seja disseminado aquilo que palestrei, procuro sempre após as minhas palestras disponibilizar os slides e códigos das demos desenvolvidas durante a palestra.

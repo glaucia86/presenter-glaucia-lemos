@@ -33,7 +33,7 @@ Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui v
   <img src="https://i.imgsafe.org/8e/8e95f00340.png"/>  
 </p>
 > Software Engineer & Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
-Trabalhando com diferentes tecnologias e frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, JQuery, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como **[Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI)**. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é **[Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/)**, **[Techinical Author no Portal iMasters]**(https://imasters.com.br/perfil/glaucialemos/) e **[Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/)**.
+Trabalhando com diferentes tecnologias e frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, JQuery, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como **[Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI)**. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é **[Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/)**, **[Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/)** e **[Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/)**.
 
 
 ## 📣 Estou disponível para...
@@ -125,7 +125,7 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 - ✔️ **Muito Networking**: para mim essa é a cereja do bolo para qualquer palestrante! Assim que, espero e muito fazer bastante networking!
 
 
-## 💰 Custos e Pagamentos/ Despesas:
+## 💰 ✈️  Custos e Pagamentos/ Despesas:
 
 Gosto e amo o que faço! Porém, realizar palestras é uma responsabilidade muito grande, uma vez que o palestrante está fazendo a passagem de conhecimento a todos! E com base nisso, sempre inclui gastos de tempo e deslocamento... Assim que:
 
@@ -134,7 +134,9 @@ Gosto e amo o que faço! Porém, realizar palestras é uma responsabilidade muit
 
 Sei que estamos vivendo período de contenção de despesas! Assim que, me considero uma pessoa super razoável quando o assunto é sobre despesas. Assim que, havendo algum problema em poder financiar a minha ida a algum evento da sua organização, não deixe de me comunicar! ;)
 
-## Palavras Finais:
+## 📋 Palavras Finais:
+
+Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que, caso queiram alguma palestra minha ou workshop, vocês poderão ter a mais plena certeza de que farei com: muito amor e dedicação - visando justamente entregar o melhor: tanto para a organização do evento e principalmente para o público-alvo. Então, não se hesitem em contatar **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei de contatando o quanto antes e terei o maior prazer em palestrar no seu evento! ❤️❤️❤️
 
 
 

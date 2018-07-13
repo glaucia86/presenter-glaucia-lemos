@@ -118,16 +118,6 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 - ✔️ **Muito Networking**: para mim essa é a cereja do bolo para qualquer palestrante! Assim que, espero e muito fazer bastante networking!
 
 
-## 💰 ✈️  Custos e Pagamentos/ Despesas:
-
-Gosto e amo o que faço! Porém, realizar palestras é uma responsabilidade muito grande, uma vez que o palestrante está fazendo a passagem de conhecimento a todos! E com base nisso, sempre inclui gastos de tempo e deslocamento... Assim que:
-
-- 👍 **Se a sua Organização de Evento me ajudar a divulgar o meu trabalho, não cobrarei pelas minhas palestras**: assim todos saem ganhando. E claro, eventos que permitem ter o maior número de ingressos pra todo o tipo de público.
-- 👍 **Cobertura, se possível: hotel e passagem**: como estarei totalmente focada na realização da palestra, preciso focar altamente nisso. Claro que, conforme já dito acima, preparação de palestras toma-se tempo e despesas de deslocamento. Assim que, não espero também, hotel de alto luxo ou passagens aéreas de 1ª classe. Mas, pelo menos o custeio das passagens e de algum hotel (se possível 1 dia antes e 1 dia depois do evento). E aviso de 15 dias de antecedência sobre esse ponto: pois trabalho prestando serviço aos meus clientes e preciso justificar as ausências.
-
-Sei que estamos vivendo período de contenção de despesas! Assim que, me considero uma pessoa super razoável quando o assunto é sobre despesas. Assim que, havendo algum problema em poder financiar a minha ida a algum evento da sua organização, não deixe de me comunicar! ;)
-
-
 ## 💾 Informações Pessoais:
 
 * **Nome:** Glaucia Lemos

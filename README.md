@@ -1,22 +1,9 @@
 # Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos:
 
-Oi! Tudo bem? Estou muito contente em saber que você está interessado deu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
+Oi! Tudo bem? Estou muito contente em saber que você está interessada em eu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
 Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam abrir uma **[ISSUE](https://github.com/glaucia86/presenter-glaucia-lemos/issues)** aqui nesse repositório, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
 
 Vamos alguns pontos?!
-
-
-## 💾 Informações Pessoais:
-
-* **Nome:** Glaucia Lemos
-* **Empresa:** [HackDev](https://www.linkedin.com/company/hackdev/)
-* **Profissão:** Software Engineer | Microsoft MVP in Developer Technologies
-* **Twitter:** [@glaucia_lemos86](https://twitter.com/glaucia_lemos86)
-* **Blog/Homepage:** https://code4coders.wordpress.com/
-* **Canal do Youtube:** https://www.youtube.com/user/l32759
-* **Linkedin:** https://www.linkedin.com/in/glaucialemos/
-* **GitHub:** https://github.com/glaucia86/
-* **Localização:** Rio de Janeiro, Brasil
 
 
 ## 📼 Algumas Apresentações online...
@@ -88,6 +75,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 06/2018 - **[JSDay Rio 2018](http://rio.jsday.com.br/speakers/)**
 - ☑️ 06/2018 - **[Insider Dev Tour 2018 São Paulo](https://insiderdevtour.com/SaoPaulo)**
 - ☑️ 06/2018 - **[Rio Cloud Computing Meetup #18](https://www.meetup.com/pt-BR/rio-cloud-computing-meetup/events/250851479/)**
+- ☑️ 07/2018 - **[HackingRio](https://hackingrio.com/hackathon/)**
 - ☑️ 08/2018 - **[Workshop - Criando uma App Rest com Node.Js](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154):**
 
 
@@ -135,6 +123,19 @@ Gosto e amo o que faço! Porém, realizar palestras é uma responsabilidade muit
 - 👍 **Cobertura, se possível: hotel e passagem**: como estarei totalmente focada na realização da palestra, preciso focar altamente nisso. Claro que, conforme já dito acima, preparação de palestras toma-se tempo e despesas de deslocamento. Assim que, não espero também, hotel de alto luxo ou passagens aéreas de 1ª classe. Mas, pelo menos o custeio das passagens e de algum hotel (se possível 1 dia antes e 1 dia depois do evento). E aviso de 15 dias de antecedência sobre esse ponto: pois trabalho prestando serviço aos meus clientes e preciso justificar as ausências.
 
 Sei que estamos vivendo período de contenção de despesas! Assim que, me considero uma pessoa super razoável quando o assunto é sobre despesas. Assim que, havendo algum problema em poder financiar a minha ida a algum evento da sua organização, não deixe de me comunicar! ;)
+
+
+## 💾 Informações Pessoais:
+
+* **Nome:** Glaucia Lemos
+* **Empresa:** [HackDev](https://www.linkedin.com/company/hackdev/)
+* **Profissão:** Software Engineer | Microsoft MVP in Developer Technologies
+* **Twitter:** [@glaucia_lemos86](https://twitter.com/glaucia_lemos86)
+* **Blog/Homepage:** https://code4coders.wordpress.com/
+* **Canal do Youtube:** https://www.youtube.com/user/l32759
+* **Linkedin:** https://www.linkedin.com/in/glaucialemos/
+* **GitHub:** https://github.com/glaucia86/
+* **Localização:** Rio de Janeiro, Brasil
 
 ## 📋 Palavras Finais:
 

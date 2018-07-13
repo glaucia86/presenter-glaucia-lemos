@@ -68,7 +68,7 @@ Trabalhando com diferentes tecnologias, frameworks e linguagens de programação
 
 ## 💻 Participações em Eventos, Workshops & Tutoriais:
 
-Aqui vai uma lista de participações e eventos que já pude o prazer de realizar:
+Aqui vai uma lista de participações e eventos que já tive o prazer de realizar:
 
 ### Palestras & Worshops: 
 

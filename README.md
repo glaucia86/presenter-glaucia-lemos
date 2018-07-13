@@ -14,7 +14,7 @@ Trabalhando com diferentes tecnologias, frameworks e linguagens de programação
 ## 👏 Salve Salve Todos! 
 
 Oi! Tudo bem? Estou muito contente em saber que você está interessada em eu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
-Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam enviar um **[E-MAIL](glaucia_lemos86@hotmail.com)** para mim, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
+Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam enviar um **E-MAIL(glaucia_lemos86@hotmail.com)** para mim, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
 
 Vamos alguns pontos?!
 

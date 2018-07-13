@@ -60,6 +60,7 @@ Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui v
 
 Aqui vai uma lista de participações e eventos que já tive o prazer de realizar:
 
+
 ### Palestras & Worshops: 
 
 - ☑️ 05/2017 - **[Meetup Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio/events/239222050/)**
@@ -82,6 +83,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 08/2018 - **[Workshop - Criando uma App Rest com Node.Js](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154):**
 
 
+
 ### Cursos/Tutoriais: 
 
 - ☑️ **[CRUD em C# Asp.NET ADO.NET com Bootstrap](https://www.youtube.com/playlist?list=PLb2HQ45KP0WuY6bCj-kCSa2LvvnaThRQ_)**
@@ -91,6 +93,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[CRUD MVC 5 + EF + AngularJs](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wup_FBqaq6Bvf2pfGFlmhg5)**
 - ☑️ **[Hands On Bots + Node.Js - Microsoft Bot Framework](https://www.youtube.com/playlist?list=PLb2HQ45KP0Ws3dVMoxliVX5ici53RmiNV)**
 - ☑️ **[Webinars](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wv9fIeaekqhEZQzaozpHNUr)**
+
 
 
 ## 💡 O que Esperar?

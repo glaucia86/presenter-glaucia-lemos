@@ -34,31 +34,53 @@ Trabalhando com diferentes tecnologias e frameworks e linguagens de programaçã
 
 ## 📣 Estou disponível para...
 
- ✔️ Keynotes 
- ✔️ Palestras 
- ✔️ Lightning Talks
- ✔️ Workshops
- ✔️ Panéis
- ✔️ Série de Vídeos
- ✔️ Webinars
- ✔️ Mentoria
- ✔️ Meetups
+ - ✅ Keynotes 
+ - ✅ Palestras 
+ - ✅ Lightning Talks
+ - ✅ Workshops
+ - ✅ Panéis
+ - ✅ Série de Vídeos
+ - ✅ Webinars
+ - ✅ Mentoria
+ - ✅ Meetups
 
 
 ## 📌 Assuntos que Abordo...
 
- ✔️ Node.js - Back-End
- ✔️ Frameworks: Angular, Vue, React... Front-End!
- ✔️ JavaScript/CSS/HTML - Web Development 
- ✔️ ChatBots & AI
- ✔️ .NET & .NET Core
- ✔️ Boas Práticas de Programação
- ✔️ TDD (.NET & Node.js)
- ✔️ Acessibilidade
- ✔️ Desenvolvimento de Comunidades Técnicas
- ✔️ Carreiras de Tecnologia (especialmente para público Feminino)
- ✔️ Entre outros...
+ - ✅ Node.js - Back-End
+ - ✅ Frameworks: Angular, Vue, React... Front-End!
+ - ✅ JavaScript/CSS/HTML - Web Development 
+ - ✅ ChatBots & AI
+ - ✅ .NET & .NET Core
+ - ✅ Boas Práticas de Programação
+ - ✅ TDD (.NET & Node.js)
+ - ✅ Acessibilidade
+ - ✅ Desenvolvimento de Comunidades Técnicas
+ - ✅ Carreiras de Tecnologia (especialmente para público Feminino)
+ - ✅ Entre outros...
 
+
+## 💻 Participações em Eventos e Workshops:
+
+Aqui vai uma lista de participações e eventos que já pude o prazer de realizar:
+
+- ☑️ 09/2017: **[Rancho Dev 2017](https://www.sympla.com.br/ranchodev-2017__157696):** Introdução à Typescript & Features TS 2.x
+- ☑️ **[QA Ladies](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s):** Introdução TDD com Node.js + Mocha + Chai
+- ☑️ **[WoMakersCode](https://www.youtube.com/watch?v=xoioug2SIMY&t=34s):** Introdução à TypeScript & Features Ts 2.x
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
+- ☑️ **[]():**
 
 
 

@@ -1,32 +1,25 @@
 # Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos:
 
-Oi! Tudo bem? Estou muito contente em saber que você está interessada em eu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
-Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam abrir uma **[ISSUE](https://github.com/glaucia86/presenter-glaucia-lemos/issues)** aqui nesse repositório, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
-
-Vamos alguns pontos?!
-
-
-## 📼 Algumas Apresentações online...
-
-Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui vão algumas que estão disponíveis de maneira online:
-
-- [WoMakersCode: Introdução à TypeScript & Features Ts 2.x](https://www.youtube.com/watch?v=xoioug2SIMY&t=34s)
-- [QA Ladies: Introdução TDD com Node.js + Mocha + Chai](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s)
-- [Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)
-
-
-## ⚡️ Mini Bio: Glaucia Lemos
-
-
 <p align="center">
   <img src="https://i.imgsafe.org/8e/8e95f00340.png"/>  
 </p>
+
+
+## ⚡️ Mini Bio: Glaucia Lemos
 
 > Software Engineer & Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
 Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como [Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI). Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é [Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/), [Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/) e [Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/).
 
 
-## 📣 Estou Disponível para...
+## 👏 Salve Salve Todos! 
+
+Oi! Tudo bem? Estou muito contente em saber que você está interessada em eu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
+Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam enviar um **[E-MAIL](glaucia_lemos86@hotmail.com)** para mim, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
+
+Vamos alguns pontos?!
+
+
+## 📣 Estou disposta para...
 
  - ✅ Keynotes 
  - ✅ Palestras 
@@ -36,8 +29,8 @@ Trabalhando com diferentes tecnologias, frameworks e linguagens de programação
  - ✅ Webinars
  - ✅ Mentoria
  - ✅ Meetups
-
-
+ 
+ 
 ## 📌 Assuntos que Abordo...
 
  - ✅ Node.js - Back-End
@@ -51,6 +44,16 @@ Trabalhando com diferentes tecnologias, frameworks e linguagens de programação
  - ✅ Desenvolvimento de Comunidades Técnicas
  - ✅ Carreiras de Tecnologia (especialmente para público Feminino)
  - ✅ Entre outros...
+
+
+
+## 📼 Palestras Online
+
+Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui vão algumas que estão disponíveis de maneira online:
+
+- [WoMakersCode: Introdução à TypeScript & Features Ts 2.x](https://www.youtube.com/watch?v=xoioug2SIMY&t=34s)
+- [QA Ladies: Introdução TDD com Node.js + Mocha + Chai](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s)
+- [Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)
 
 
 ## 💻 Participações em Eventos, Workshops & Tutoriais:
@@ -90,7 +93,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[Webinars](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wv9fIeaekqhEZQzaozpHNUr)**
 
 
-## 💡 O que esperar das minhas Palestras?
+## 💡 O que Esperar?
 
 Aqui vão alguns itens do que farei, caso seja a convidada para palestras no seu evento:
 
@@ -136,6 +139,7 @@ Sei que estamos vivendo período de contenção de despesas! Assim que, me consi
 * **Linkedin:** https://www.linkedin.com/in/glaucialemos/
 * **GitHub:** https://github.com/glaucia86/
 * **Localização:** Rio de Janeiro, Brasil
+
 
 ## 📋 Palavras Finais:
 

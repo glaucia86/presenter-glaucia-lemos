@@ -1,6 +1,6 @@
 # Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos:
 
-Fala pessoal! Tudo bem? Estou muito contente em saber que você está interessado de realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
+Oi! Tudo bem? Estou muito contente em saber que você está interessado de realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
 Sou uma Palestrante Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram por abrir uma **[ISSUE](https://github.com/glaucia86/presenter-glaucia-lemos/issues)** aqui nesse repositório, caso queiram ou desejam uma palestra ou workshop meu 💕💕!
 
 

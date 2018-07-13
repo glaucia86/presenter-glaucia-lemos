@@ -79,7 +79,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 10/2017 - **[Meetup .NET Caxias do Sul](https://www.meetup.com/pt-BR/SQL-Server-RS/events/243317252/?joinFrom=event&success=profileUpdatedEventWelcome)**
 - ☑️ 10/2017 - **[TecNow Day](https://www.sympla.com.br/tecnow-day__197076)**
 - ☑️ 10/2017 - **[Canal - dotNet](https://www.youtube.com/watch?v=jKwqj-Zi6Ms)**
-- ☑️ 03/2018 - [Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)
+- ☑️ 03/2018 - **[Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)**
 - ☑️ 03/2018 - **[React Rio Meetup](https://www.meetup.com/pt-BR/React-Rio-de-Janeiro/events/248569308/):**
 - ☑️ 04/2018 - **[MVP Conf 2018](https://mvpconf.com.br/)**
 - ☑️ 04/2018 **[Brasília Global Azure Bootcamp 2018 - CrazyTechLabs](https://www.eventbrite.com.br/e/brasilia-azure-bootcamp-2018-crazytechguys-tickets-43858940271#)**

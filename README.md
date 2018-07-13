@@ -34,8 +34,9 @@ Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui v
 <p align="center">
   <img src="https://i.imgsafe.org/8e/8e95f00340.png"/>  
 </p>
+
 > Software Engineer & Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
-Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como **[Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI)**. Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é **[Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/)**, **[Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/)** e **[Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/)**.
+Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como [Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI). Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é [Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/), [Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/) e [Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/).
 
 
 ## 📣 Estou Disponível para...

@@ -80,7 +80,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 06/2018 - **[Insider Dev Tour 2018 São Paulo](https://insiderdevtour.com/SaoPaulo)**
 - ☑️ 06/2018 - **[Rio Cloud Computing Meetup #18](https://www.meetup.com/pt-BR/rio-cloud-computing-meetup/events/250851479/)**
 - ☑️ 07/2018 - **[HackingRio](https://hackingrio.com/hackathon/)**
-- ☑️ 08/2018 - **[Workshop - Criando uma App Rest com Node.Js](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154):**
+- ☑️ 08/2018 - **[Workshop - Criando uma App Rest com Node.Js & MongoDb](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154)**
 
 
 

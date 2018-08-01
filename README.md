@@ -13,7 +13,7 @@ Trabalhando com diferentes tecnologias, frameworks e linguagens de programação
 
 ## 👏 Salve Salve Todos! 
 
-Oi! Tudo bem? Estou muito contente em saber que você está interessada em eu realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
+Oi! Tudo bem? Estou muito contente em saber que você está interessado(a) em realizar uma palestra ou workshop no seu evento! Aqui vão alguns tópicos, pequenos resumos de palestras já realizadas e temas pelas quais abordo. 
 Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se a vontade em entrar em contato comigo quando queiram. Bastam enviar um **E-MAIL(glaucia_lemos86@hotmail.com)** para mim, caso queiram ou desejam uma palestra ou workshop meu no seu evento 💕💕!
 
 Vamos alguns pontos?!
@@ -49,7 +49,7 @@ Vamos alguns pontos?!
 
 ## 📼 Palestras Online
 
-Caso queiram saber ou até mesmo ver algumas palestras minhas realizadas, aqui vão algumas que estão disponíveis de maneira online:
+Caso queiram saber ou até mesmo ver algumas palestras minhas já realizadas, aqui vão algumas que estão disponíveis de maneira online:
 
 - [WoMakersCode: Introdução à TypeScript & Features Ts 2.x](https://www.youtube.com/watch?v=xoioug2SIMY&t=34s)
 - [QA Ladies: Introdução TDD com Node.js + Mocha + Chai](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s)

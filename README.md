@@ -73,7 +73,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 03/2018 - **[Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)**
 - ☑️ 03/2018 - **[React Rio Meetup](https://www.meetup.com/pt-BR/React-Rio-de-Janeiro/events/248569308/):**
 - ☑️ 04/2018 - **[MVP Conf 2018](https://mvpconf.com.br/)**
-- ☑️ 04/2018 **[Brasília Global Azure Bootcamp 2018 - CrazyTechLabs](https://www.eventbrite.com.br/e/brasilia-azure-bootcamp-2018-crazytechguys-tickets-43858940271#)**
+- ☑️ 04/2018 - **[Brasília Global Azure Bootcamp 2018 - CrazyTechLabs](https://www.eventbrite.com.br/e/brasilia-azure-bootcamp-2018-crazytechguys-tickets-43858940271#)**
 - ☑️ 05/2018 - **[WoMakersCode Summit Rio 2018](https://www.sympla.com.br/womakerscode-summit-rio-de-janeiro__273462)**
 - ☑️ 06/2018 - **[VS Summit 2018](http://devprime.one/)**
 - ☑️ 06/2018 - **[JSDay Rio 2018](http://rio.jsday.com.br/speakers/)**

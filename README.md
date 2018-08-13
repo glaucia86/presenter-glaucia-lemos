@@ -81,6 +81,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 06/2018 - **[Rio Cloud Computing Meetup #18](https://www.meetup.com/pt-BR/rio-cloud-computing-meetup/events/250851479/)**
 - ☑️ 07/2018 - **[HackingRio](https://hackingrio.com/hackathon/)**
 - ☑️ 08/2018 - **[Workshop - Criando uma App Rest com Node.Js & MongoDb](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154)**
+- ☑️ 09/2018 - **[MSP TECHDAY Balneário Camboriú - Santa Catarina](https://www.sympla.com.br/msp-techday-bc__334042)**
 
 
 

@@ -84,7 +84,8 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 09/2018 - **[.NET com TDD na Prática - Ativa Investimentos](https://www.sympla.com.br/dotnet-com-tdd-na-pratica__351805)**
 - ☑️ 09/2018 - **[Desmistificando ChatBots & AI - Frameworks e Futuro dos Serviços: Ativa Investimentos](https://www.sympla.com.br/desmistificando-chatbots--ai---frameworks-e-futuro-dos-servicos__351811)**
 - ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/Override/events/251715867/)**
-- ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - Workshop .NET Core](https://www.meetup.com/pt-BR/Override/events/251715867/)**
+- ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - Workshop .NET Core](https://ev.congressy.com/dotnetconf-workshop-net-core/)**
+- ☑️ 09/2018 - **[SETC 2018 - Bambuí - Uso de Linguagem Natural com Azure e Microsoft Bot Framework](http://www.computacaoifmg.com.br/)**
 
 
 

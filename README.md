@@ -86,7 +86,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/Override/events/251715867/)**
 - ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - Workshop .NET Core](https://ev.congressy.com/dotnetconf-workshop-net-core/)**
 - ☑️ 09/2018 - **[SETC 2018 - Bambuí - Uso de Linguagem Natural com Azure e Microsoft Bot Framework](http://www.computacaoifmg.com.br/)**
-- ☑️ 09/2018 - **[.NET Insider Stone Pagamentos - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/dotnetinsiderj/events/254666217/)**
+- ☑️ 09/2018 - **[.NET Inside Rio de Janeiro: Stone Pagamentos - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/dotnetinsiderj/events/254666217/)**
 
 
 

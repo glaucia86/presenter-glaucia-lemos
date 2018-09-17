@@ -81,12 +81,12 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 06/2018 - **[Rio Cloud Computing Meetup #18](https://www.meetup.com/pt-BR/rio-cloud-computing-meetup/events/250851479/)**
 - ☑️ 07/2018 - **[HackingRio](https://hackingrio.com/hackathon/)**
 - ☑️ 08/2018 - **[Workshop - Criando uma App Rest com Node.Js & MongoDb](https://www.sympla.com.br/criando-uma-app-rest-api-com-nodejs__322154)**
-- ☑️ 09/2018 - **[.NET com TDD na Prática - Ativa Investimentos](https://www.sympla.com.br/dotnet-com-tdd-na-pratica__351805)**
 - ☑️ 09/2018 - **[Desmistificando ChatBots & AI - Frameworks e Futuro dos Serviços: Ativa Investimentos](https://www.sympla.com.br/desmistificando-chatbots--ai---frameworks-e-futuro-dos-servicos__351811)**
 - ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/Override/events/251715867/)**
 - ☑️ 09/2018 - **[.NET Conf 2018 - Goiânia - Workshop .NET Core](https://ev.congressy.com/dotnetconf-workshop-net-core/)**
 - ☑️ 09/2018 - **[SETC 2018 - Bambuí - Uso de Linguagem Natural com Azure e Microsoft Bot Framework](http://www.computacaoifmg.com.br/)**
 - ☑️ 09/2018 - **[.NET Inside Rio de Janeiro: Stone Pagamentos - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/dotnetinsiderj/events/254666217/)**
+- ☑️ 10/2018 - **[.NET com TDD na Prática - Ativa Investimentos](https://www.sympla.com.br/dotnet-com-tdd-na-pratica__351805)**
 
 
 

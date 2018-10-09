@@ -87,6 +87,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 09/2018 - **[SETC 2018 - Bambuí - Uso de Linguagem Natural com Azure e Microsoft Bot Framework](http://www.computacaoifmg.com.br/)**
 - ☑️ 09/2018 - **[.NET Inside Rio de Janeiro: Stone Pagamentos - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/dotnetinsiderj/events/254666217/)**
 - ☑️ 10/2018 - **[.NET com TDD na Prática - Ativa Investimentos](https://www.sympla.com.br/dotnet-com-tdd-na-pratica__351805)**
+- ☑️ 11/2018 - **[Semana de Meninas e Mulheres na Ciência](http://www.mmciencia.com.br/)**
 
 
 
@@ -98,6 +99,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[CRUD API RESTFUL com Node.js + Express + MongoDb](https://www.youtube.com/playlist?list=PLb2HQ45KP0WstF2TXsreWRv-WUr5tqzy1)**
 - ☑️ **[CRUD MVC 5 + EF + AngularJs](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wup_FBqaq6Bvf2pfGFlmhg5)**
 - ☑️ **[Hands On Bots + Node.Js - Microsoft Bot Framework](https://www.youtube.com/playlist?list=PLb2HQ45KP0Ws3dVMoxliVX5ici53RmiNV)**
+- ☑️ **[Workshop - Asp.NET Core para Iniciantes](https://www.youtube.com/playlist?list=PLb2HQ45KP0WtBPZ7VbDz1WtavPFQm3Jj-)**
 - ☑️ **[Webinars](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wv9fIeaekqhEZQzaozpHNUr)**
 
 

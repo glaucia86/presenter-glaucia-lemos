@@ -144,7 +144,7 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 
 ## 📋 Palavras Finais:
 
-Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que, caso queiram alguma palestra minha ou workshop, vocês poderão ter a mais plena certeza de que farei com: muito amor e dedicação - visando justamente entregar o melhor: tanto para a organização do evento e principalmente para o público-alvo. Então, não se hesitem em contatar **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei de contatando o quanto antes e terei o maior prazer em palestrar no seu evento! ❤️❤️❤️
+Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que, caso queiram alguma palestra minha ou workshop, vocês poderão ter a mais plena certeza de que farei com: muito amor e dedicação - visando justamente entregar o melhor: tanto para a organização do evento e principalmente para o público-alvo. Então, não hesitem em contatar **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei de contatando o quanto antes e terei o maior prazer em palestrar no seu evento! ❤️❤️❤️
 
 
 

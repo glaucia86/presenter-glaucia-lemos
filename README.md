@@ -89,7 +89,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 10/2018 - **[.NET com TDD na Prática - Ativa Investimentos](https://www.sympla.com.br/dotnet-com-tdd-na-pratica__351805)**
 - ☑️ 11/2018 - **[Semana de Meninas e Mulheres na Ciência](http://www.mmciencia.com.br/)**
 - ☑️ 11/2018 - **[Coders in Rio Summit 2018](https://codersinrio.com.br/)**
-- ☑️ 11/2018 - **[2018 Global Office Developer Bootcamp – Rio](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
+- ☑️ 11/2018 - **[Global Office 365 Developer Bootcamp Brazil, Rio de Janeiro](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
 
  
 

@@ -91,9 +91,6 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 11/2018 - **[Coders in Rio Summit 2018](https://codersinrio.com.br/)**
 - ☑️ 11/2018 - **[Global Office 365 Developer Bootcamp Brazil, Rio de Janeiro](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
 
- 
-
-
 
 ### Cursos/Tutoriais: 
 
@@ -147,20 +144,9 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 
 ## 📋 Palavras Finais:
 
-Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que, caso queiram alguma palestra minha ou workshop, vocês poderão ter a mais plena certeza de que farei com: muito amor e dedicação - visando justamente entregar o melhor: tanto para a organização do evento e principalmente para o público-alvo. Então, não hesitem em contatar **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei de contatando o quanto antes e terei o maior prazer em palestrar no seu evento! ❤️❤️❤️
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que, caso queiram alguma 
+palestra minha ou workshop na sua região, cidade ou estado, vocês poderão ter a mais plena certeza 
+de que farei com: muito amor e dedicação - visando justamente entregar o melhor conteúdo: tanto para 
+a organização do evento e principalmente para o público-alvo. Então, não hesitem de entrar em contato
+do e-mail: **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei entrando em contato com vocês
+o quanto antes e podem ter a mais plena certeza de que terei o maior prazer em palestrar no seu evento! ❤️❤️❤️

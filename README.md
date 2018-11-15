@@ -90,6 +90,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 11/2018 - **[Semana de Meninas e Mulheres na Ciência](http://www.mmciencia.com.br/)**
 - ☑️ 11/2018 - **[Coders in Rio Summit 2018](https://codersinrio.com.br/)**
 - ☑️ 11/2018 - **[Global Office 365 Developer Bootcamp Brazil, Rio de Janeiro](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
+- ☑️ 12/2018 - **[Front-end Study Group #2](https://www.sympla.com.br/front-end-study-group-2__393341)**
 
 
 ### Cursos/Tutoriais: 

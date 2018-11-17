@@ -25,7 +25,7 @@ Vamos alguns pontos?!
  - ✅ Palestras 
  - ✅ Lightning Talks
  - ✅ Workshops
- - ✅ Panéis
+ - ✅ Painéis
  - ✅ Webinars
  - ✅ Mentoria
  - ✅ Meetups
@@ -95,7 +95,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/bootcamp/6c701b9d-9516-463b-b6e1-4c2e92aeb83d)**
 
 
-### Cursos/Tutoriais: 
+### Cursos & Tutoriais: 
 
 - ☑️ **[CRUD em C# Asp.NET ADO.NET com Bootstrap](https://www.youtube.com/playlist?list=PLb2HQ45KP0WuY6bCj-kCSa2LvvnaThRQ_)**
 - ☑️ **[Typescript para Desenvolvedores C#](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob)**

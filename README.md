@@ -144,7 +144,6 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 * **GitHub:** https://github.com/glaucia86/
 * **Localização:** Rio de Janeiro, Brasil
 
-
 ## 📋 Palavras Finais:
 
 Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que, caso queiram alguma 

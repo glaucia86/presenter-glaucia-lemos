@@ -18,7 +18,6 @@ Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se
 
 Vamos alguns pontos?!
 
-
 ## 📣 Estou disposta para...
 
  - ✅ Keynotes 
@@ -29,8 +28,7 @@ Vamos alguns pontos?!
  - ✅ Webinars
  - ✅ Mentoria
  - ✅ Meetups
- 
- 
+  
 ## 📌 Assuntos que Abordo...
 
  - ✅ Node.js - Back-End

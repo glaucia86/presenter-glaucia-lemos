@@ -1,4 +1,4 @@
-# Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos:
+# Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos 
 
 <p align="center">
   <img src="https://i.imgsafe.org/8e/8e95f00340.png"/>  

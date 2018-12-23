@@ -44,8 +44,15 @@ Vamos alguns pontos?!
  - ✅ Entre outros...
 
 
+## 🎤 Idiomas em que Posso Realizar Palestras:
 
-## 📼 Palestras Online
+Além do português, que é o meu idioma nativo, posso estar realizando palestras em:
+
+- ✅ Português Brasileiro (pt-br)
+- ✅ Inglês (en)
+- ✅ Espanhol (es-ar)
+
+## 📼 Palestras Online:
 
 Caso queiram saber ou até mesmo ver algumas palestras minhas já realizadas, aqui vão algumas que estão disponíveis de maneira online:
 
@@ -125,8 +132,8 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 
 - ✔️ **Grave e publique a minha palestra**: lembrem-se: a propaganda é a alma do negócio! Assim que, as gravações são ótimos recursos de propaganda para a sua conferência. Assim que, publiquem e divulguem também a minha palestra! 
 - ✔️ **Configuração de equipamento**: eu gosto de usar o meu notebook. Mas, peço que caso seja convidada, que tenha conectores de HDMI e microfone para a boa realização da palestra.
-- ✔️ **Boa conexão com internet**: há palestras que possuem públicos presenciais e ao mesmo tempo de maneira online. Caso seja esse cenário, que tenha uma conexão com internet para fazer uma boa transmissão da palestra para todos! 
-- ✔️ **Público diversificado**: gosto de interagir com todos! Porém, é importante salientar que seria interessante, caso eu seja convidada para palestrar tanto o público masculino e feminino estejam equilibrados! Pois #juntossomosmaisfortes
+- ✔️ **Boa conexão com internet**: há palestras que possuem públicos presenciais e ao mesmo tempo de maneira online. Caso seja esse cenário, que tenha uma conexão com internet para fazer uma boa transmissão da palestra para todos! Incluso que há demos que precisa do uso da internet. 
+- ✔️ **Público diversificado**: gosto de interagir com todos! Porém, é importante salientar que seria interessante, caso eu seja convidada para palestrar, que tanto o público masculino e feminino estejam equilibrados! Pois **#juntossomosmaisfortes**
 - ✔️ **Muito Networking**: para mim essa é a cereja do bolo para qualquer palestrante! Assim que, espero e muito fazer bastante networking!
 
 
@@ -148,5 +155,5 @@ Gosto de contribuir em Comunidades Técnicas! Gosto e amo o que faço! Assim que
 palestra minha ou workshop na sua região, cidade ou estado, vocês poderão ter a mais plena certeza 
 de que farei com: muito amor e dedicação - visando justamente entregar o melhor conteúdo: tanto para 
 a organização do evento e principalmente para o público-alvo. Então, não hesitem de entrar em contato
-do e-mail: **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei entrando em contato com vocês
+comigo através do e-mail: **[AQUI](glaucia_lemos86@hotmail.com)**. Estarei entrando em contato com vocês
 o quanto antes e podem ter a mais plena certeza de que terei o maior prazer em palestrar no seu evento! ❤️❤️❤️

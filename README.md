@@ -18,6 +18,7 @@ Sou uma Palestrante Técnica Profissional com experiência. Assim que, sintam-se
 
 Vamos alguns pontos?!
 
+
 ## 📣 Estou disposta para...
 
  - ✅ Keynotes 
@@ -28,6 +29,7 @@ Vamos alguns pontos?!
  - ✅ Webinars
  - ✅ Mentoria
  - ✅ Meetups
+ 
   
 ## 📌 Assuntos que Abordo...
 
@@ -51,6 +53,7 @@ Além do português, que é o meu idioma nativo, posso estar realizando palestra
 - ✅ Português Brasileiro (pt-br)
 - ✅ Inglês (en)
 - ✅ Espanhol (es-ar)
+
 
 ## 📼 Palestras Online:
 
@@ -112,6 +115,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[Coders4Tips](http://bit.ly/2RPD2eL)**
 
 
+
 ## 💡 O que Esperar?
 
 Aqui vão alguns itens do que farei, caso seja a convidada para palestras no seu evento:
@@ -126,6 +130,7 @@ Aqui vão alguns itens do que farei, caso seja a convidada para palestras no seu
 - ✔️ **Feedbacks & Pré & Pós interação com Público**: o mais legal de participar de eventos é justamente o networking que fazemos. Assim que, todo o público que for participar do evento, poderão me contatar antes ou até depois do evento para bater um papo! 😍
 
 
+
 ## 🙏 Minhas Expectativas:
 
 Gosto de estar presente em eventos e especialmente poder compartilhar o meu conhecimento em forma de palestras. E com isso, farei o possível para garantir o grande sucesso do evento. Porém, segue abaixo algumas expectativas que gostaria de deixar aqui:
@@ -135,6 +140,7 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 - ✔️ **Boa conexão com internet**: há palestras que possuem públicos presenciais e ao mesmo tempo de maneira online. Caso seja esse cenário, que tenha uma conexão com internet para fazer uma boa transmissão da palestra para todos! Incluso que há demos que precisa do uso da internet. 
 - ✔️ **Público diversificado**: gosto de interagir com todos! Porém, é importante salientar que seria interessante, caso eu seja convidada para palestrar, que tanto o público masculino e feminino estejam equilibrados! Pois **#juntossomosmaisfortes**
 - ✔️ **Muito Networking**: para mim essa é a cereja do bolo para qualquer palestrante! Assim que, espero e muito fazer bastante networking!
+
 
 
 ## 💾 Informações Pessoais:

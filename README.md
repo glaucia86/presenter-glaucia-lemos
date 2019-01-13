@@ -153,6 +153,7 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 * **Canal do Youtube:** https://www.youtube.com/user/l32759
 * **Linkedin:** https://www.linkedin.com/in/glaucialemos/
 * **GitHub:** https://github.com/glaucia86/
+* **Twitch:** https://www.twitch.tv/glaucia_lemos86
 * **Localização:** Rio de Janeiro, Brasil
 
 ## 📋 Palavras Finais:

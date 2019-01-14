@@ -109,10 +109,12 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/pt-br/ignite-the-tour/)**
 - ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/bootcamp/6c701b9d-9516-463b-b6e1-4c2e92aeb83d)**
 
+
 ### Palestras em 2019:
 
 - ☑️ 01/2019 - **[Explorando T.I - Desenvolvendo Aplicações Node.js com Azure: A Nuvem que Escala](https://www.explorandoti.com.br/)**
 - ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
+
 
 
 ## 🌌 Cursos, Tutoriais & Live Streams: 

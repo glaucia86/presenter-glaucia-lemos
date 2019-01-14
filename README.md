@@ -72,10 +72,8 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - [Palestras em 2018](#palestras-em-2018)
 - [Palestras em 2019](#palestras-em-2019)
 
-### Palestras & Worshops: 
 
-
-#### Palestras em 2017:
+### Palestras em 2017:
 
 - ☑️ 05/2017 - **[Meetup Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio/events/239222050/)**
 - ☑️ 09/2017 - **[Rancho Dev 2017](https://www.sympla.com.br/ranchodev-2017__157696)**
@@ -86,7 +84,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 10/2017 - **[Canal - dotNet](https://www.youtube.com/watch?v=jKwqj-Zi6Ms)**
 
 
-#### Palestras em 2018:
+### Palestras em 2018:
 
 - ☑️ 03/2018 - **[Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)**
 - ☑️ 03/2018 - **[React Rio Meetup](https://www.meetup.com/pt-BR/React-Rio-de-Janeiro/events/248569308/):**
@@ -111,12 +109,13 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/pt-br/ignite-the-tour/)**
 - ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/bootcamp/6c701b9d-9516-463b-b6e1-4c2e92aeb83d)**
 
-#### Palestras em 2019:
+### Palestras em 2019:
 
 - ☑️ 01/2019 - **[Explorando T.I - Desenvolvendo Aplicações Node.js com Azure: A Nuvem que Escala](https://www.explorandoti.com.br/)**
+- ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
 
 
-### Cursos & Tutoriais: 
+## 🌌 Cursos, Tutoriais & Live Streams: 
 
 - ☑️ **[CRUD em C# Asp.NET ADO.NET com Bootstrap](https://www.youtube.com/playlist?list=PLb2HQ45KP0WuY6bCj-kCSa2LvvnaThRQ_)**
 - ☑️ **[Typescript para Desenvolvedores C#](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wt32eCnju3lyncXUvDV5Nob)**
@@ -127,6 +126,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[Workshop - Asp.NET Core para Iniciantes](https://www.youtube.com/playlist?list=PLb2HQ45KP0WtBPZ7VbDz1WtavPFQm3Jj-)**
 - ☑️ **[Webinars](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wv9fIeaekqhEZQzaozpHNUr)**
 - ☑️ **[Coders4Tips](http://bit.ly/2RPD2eL)**
+- ☑️ **[Live Coding - Twitch Glaucia Lemos](https://www.twitch.tv/glaucia_lemos86)**
 
 
 

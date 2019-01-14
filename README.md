@@ -112,7 +112,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 
 ### Palestras em 2019:
 
-- ☑️ 01/2019 - **[Explorando T.I - Desenvolvendo Aplicações Node.js com Azure: A Nuvem que Escala](https://www.explorandoti.com.br/)**
+- ☑️ 01/2019 - **[Explorando T.I](https://www.explorandoti.com.br/)**
 - ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
 
 

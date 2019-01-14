@@ -68,9 +68,9 @@ Caso queiram saber ou até mesmo ver algumas palestras minhas já realizadas, aq
 
 Aqui vai uma lista de participações e eventos que já tive o prazer de realizar:
 
-- [Palestras em 2017](#palestras-em-2017)
-- [Palestras em 2018](#palestras-em-2018)
-- [Palestras em 2019](#palestras-em-2019)
+- **[Palestras em 2017](#palestras-em-2017)**
+- **[Palestras em 2018](#palestras-em-2018)**
+- **[Palestras em 2019](#palestras-em-2019)**
 
 
 ### Palestras em 2017:

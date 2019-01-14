@@ -71,6 +71,8 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 
 ### Palestras & Worshops: 
 
+- [Palestras em 2017](#palestras-em-2017)
+
 - ☑️ 05/2017 - **[Meetup Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio/events/239222050/)**
 - ☑️ 09/2017 - **[Rancho Dev 2017](https://www.sympla.com.br/ranchodev-2017__157696)**
 - ☑️ 09/2017 - **[QA Ladies](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s)**
@@ -78,6 +80,9 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 10/2017 - **[Meetup .NET Caxias do Sul](https://www.meetup.com/pt-BR/SQL-Server-RS/events/243317252/?joinFrom=event&success=profileUpdatedEventWelcome)**
 - ☑️ 10/2017 - **[TecNow Day](https://www.sympla.com.br/tecnow-day__197076)**
 - ☑️ 10/2017 - **[Canal - dotNet](https://www.youtube.com/watch?v=jKwqj-Zi6Ms)**
+
+- [Palestras em 2018](#palestras-em-2018)
+
 - ☑️ 03/2018 - **[Meetup ChatBots Brasil: Microsoft Bot Framework com Node.js - A Combinação Perfeita!](https://medium.com/botsbrasil/nlp-com-luis-e-chatbots-d8c6f26375f2)**
 - ☑️ 03/2018 - **[React Rio Meetup](https://www.meetup.com/pt-BR/React-Rio-de-Janeiro/events/248569308/):**
 - ☑️ 04/2018 - **[MVP Conf 2018](https://mvpconf.com.br/)**
@@ -100,6 +105,10 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 12/2018 - **[Front-end Study Group #2 - Mentory](https://www.sympla.com.br/front-end-study-group-2__393341)**
 - ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/pt-br/ignite-the-tour/)**
 - ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/bootcamp/6c701b9d-9516-463b-b6e1-4c2e92aeb83d)**
+
+- [Palestras em 2019](#palestras-em-2019)
+
+- ☑️ 01/2019 - **[Explorando T.I - Desenvolvendo Aplicações Node.js com Azure: A Nuvem que Escala](https://www.explorandoti.com.br/)**
 
 
 ### Cursos & Tutoriais: 

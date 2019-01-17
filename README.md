@@ -127,6 +127,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[Hands On Bots + Node.Js - Microsoft Bot Framework](https://www.youtube.com/playlist?list=PLb2HQ45KP0Ws3dVMoxliVX5ici53RmiNV)**
 - ☑️ **[Workshop - Asp.NET Core para Iniciantes](https://www.youtube.com/playlist?list=PLb2HQ45KP0WtBPZ7VbDz1WtavPFQm3Jj-)**
 - ☑️ **[Webinars](https://www.youtube.com/playlist?list=PLb2HQ45KP0Wv9fIeaekqhEZQzaozpHNUr)**
+- ☑️ **[Tutorial - Todo List com Vuejs](https://www.youtube.com/playlist?list=PLb2HQ45KP0WvAT85jk0fUBD3r54_DZaPj)**
 - ☑️ **[Coders4Tips](http://bit.ly/2RPD2eL)**
 - ☑️ **[Live Coding - Twitch Glaucia Lemos](https://www.twitch.tv/glaucia_lemos86)**
 

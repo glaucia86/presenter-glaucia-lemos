@@ -103,7 +103,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 09/2018 - **[.NET Insider Rio de Janeiro: Stone Pagamentos - O Uso de Linguagem Natural em C# com Azure & Microsoft Bot Framework](https://www.meetup.com/pt-BR/dotnetinsiderj/events/254666217/)**
 - ☑️ 10/2018 - **[.NET com TDD na Prática - Ativa Investimentos](https://www.sympla.com.br/dotnet-com-tdd-na-pratica__351805)**
 - ☑️ 11/2018 - **[Semana de Meninas e Mulheres na Ciência](http://www.mmciencia.com.br/)**
-- ☑️ 11/2018 - **[Coders in Rio Summit 2018](https://codersinrio.com.br/)**
+- ☑️ 11/2018 - **[Coders in Rio Summit 2018](https://www.meetup.com/pt-BR/Coders-in-Rio/events/255061646/)**
 - ☑️ 11/2018 - **[Global Office 365 Developer Bootcamp Brazil, Rio de Janeiro](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
 - ☑️ 12/2018 - **[Front-end Study Group #2 - Mentory](https://www.sympla.com.br/front-end-study-group-2__393341)**
 - ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/pt-br/ignite-the-tour/)**

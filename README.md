@@ -107,14 +107,13 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 11/2018 - **[Global Office 365 Developer Bootcamp Brazil, Rio de Janeiro](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
 - ☑️ 12/2018 - **[Front-end Study Group #2 - Mentory](https://www.sympla.com.br/front-end-study-group-2__393341)**
 - ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/pt-br/ignite-the-tour/)**
-- ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/bootcamp/6c701b9d-9516-463b-b6e1-4c2e92aeb83d)**
+- ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/)**
 
 
 ### Palestras em 2019:
 
-- ☑️ 01/2019 - **[Explorando T.I](https://www.explorandoti.com.br/)**
+- ☑️ 01/2019 - **[Explorando T.I](https://www.youtube.com/watch?v=GminGcR4rOU&t=4s)**
 - ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
-
 
 
 ## 🌌 Cursos, Tutoriais & Live Streams: 

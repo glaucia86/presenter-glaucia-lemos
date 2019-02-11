@@ -68,20 +68,15 @@ Caso queiram saber ou até mesmo ver algumas palestras minhas já realizadas, aq
 
 Aqui vai uma lista de participações e eventos que já tive o prazer de realizar:
 
-- **[Palestras em 2017](#palestras-em-2017)**
-- **[Palestras em 2018](#palestras-em-2018)**
 - **[Palestras em 2019](#palestras-em-2019)**
+- **[Palestras em 2018](#palestras-em-2018)**
+- **[Palestras em 2017](#palestras-em-2017)**
 
+### Palestras em 2019:
 
-### Palestras em 2017:
-
-- ☑️ 05/2017 - **[Meetup Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio/events/239222050/)**
-- ☑️ 09/2017 - **[Rancho Dev 2017](https://www.sympla.com.br/ranchodev-2017__157696)**
-- ☑️ 09/2017 - **[QA Ladies](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s)**
-- ☑️ 10/2017 - **[WoMakersCode](https://www.youtube.com/watch?v=xoioug2SIMY&t=34s)**
-- ☑️ 10/2017 - **[Meetup .NET Caxias do Sul](https://www.meetup.com/pt-BR/SQL-Server-RS/events/243317252/?joinFrom=event&success=profileUpdatedEventWelcome)**
-- ☑️ 10/2017 - **[TecNow Day](https://www.sympla.com.br/tecnow-day__197076)**
-- ☑️ 10/2017 - **[Canal - dotNet](https://www.youtube.com/watch?v=jKwqj-Zi6Ms)**
+- ☑️ 01/2019 - **[Explorando T.I](https://www.youtube.com/watch?v=GminGcR4rOU&t=4s)**
+- ☑️ 02/2019 - **[GDG Rio]()**
+- ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
 
 
 ### Palestras em 2018:
@@ -110,10 +105,15 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/)**
 
 
-### Palestras em 2019:
+### Palestras em 2017:
 
-- ☑️ 01/2019 - **[Explorando T.I](https://www.youtube.com/watch?v=GminGcR4rOU&t=4s)**
-- ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
+- ☑️ 05/2017 - **[Meetup Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio/events/239222050/)**
+- ☑️ 09/2017 - **[Rancho Dev 2017](https://www.sympla.com.br/ranchodev-2017__157696)**
+- ☑️ 09/2017 - **[QA Ladies](https://www.youtube.com/watch?v=VLL-OAVL7yE&t=14s)**
+- ☑️ 10/2017 - **[WoMakersCode](https://www.youtube.com/watch?v=xoioug2SIMY&t=34s)**
+- ☑️ 10/2017 - **[Meetup .NET Caxias do Sul](https://www.meetup.com/pt-BR/SQL-Server-RS/events/243317252/?joinFrom=event&success=profileUpdatedEventWelcome)**
+- ☑️ 10/2017 - **[TecNow Day](https://www.sympla.com.br/tecnow-day__197076)**
+- ☑️ 10/2017 - **[Canal - dotNet](https://www.youtube.com/watch?v=jKwqj-Zi6Ms)**
 
 
 ## 🌌 Cursos, Tutoriais & Live Streams: 
@@ -129,7 +129,6 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ **[Tutorial - Todo List com Vuejs](https://www.youtube.com/playlist?list=PLb2HQ45KP0WvAT85jk0fUBD3r54_DZaPj)**
 - ☑️ **[Coders4Tips](http://bit.ly/2RPD2eL)**
 - ☑️ **[Live Coding - Twitch Glaucia Lemos](https://www.twitch.tv/glaucia_lemos86)**
-
 
 
 ## 💡 O que Esperar?
@@ -156,7 +155,6 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 - ✔️ **Boa conexão com internet**: há palestras que possuem públicos presenciais e ao mesmo tempo de maneira online. Caso seja esse cenário, que tenha uma conexão com internet para fazer uma boa transmissão da palestra para todos! Incluso que há demos que precisa do uso da internet. 
 - ✔️ **Público diversificado**: gosto de interagir com todos! Porém, é importante salientar que seria interessante, caso eu seja convidada para palestrar, que tanto o público masculino e feminino estejam equilibrados! Pois **#juntossomosmaisfortes**
 - ✔️ **Muito Networking**: para mim essa é a cereja do bolo para qualquer palestrante! Assim que, espero e muito fazer bastante networking!
-
 
 
 ## 💾 Informações Pessoais:

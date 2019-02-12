@@ -75,7 +75,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 ### Palestras em 2019:
 
 - ☑️ 01/2019 - **[Explorando T.I](https://www.youtube.com/watch?v=GminGcR4rOU&t=4s)**
-- ☑️ 02/2019 - **[GDG Rio]()**
+- ☑️ 02/2019 - **[GDG Rio](http://meetu.ps/e/Gn00K/wyD7Q/d)**
 - ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
 
 

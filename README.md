@@ -6,9 +6,20 @@
 
 
 ## ⚡️ Mini Bio: Glaucia Lemos
-
-> Software Developer com especialização em .NET & Node.js/Javascript com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
-Trabalhando com diferentes tecnologias, frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, KnockoutJs, TypeScript, RESTFul, API, MongoDb, SQL Server, Metodologias Ágil e Scrum, TDD, DDD e entre outros. Atualmente atua como [Microsoft MVP em Developer Technologies](https://bit.ly/2GSYLwI). Sendo assim, atuando como Evangelista Técnica de novas linguagens de programação, em especial Open Source. Também é [Community Leader & Tech Speaker do Meetup Coders in Rio](https://codersinrio.com.br/), [Techinical Author no Portal iMasters](https://imasters.com.br/perfil/glaucialemos/) e [Volunteer & Tech Speaker do WoMakersCode](http://womakerscode.org/).
+<p align="justify">
+  Glaucia Lemos é Software Developer com especialização em .NET & Node.js/Javascript com experiência nacional e
+  internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
+  Trabalhando com diferentes tecnologias, metodologias, frameworks e linguagens de programação,
+  tais como: C# .NET, Node.Js, JavaScript, Angular, Vue.Js, ChatBots, AI e entre outros.
+  Atualmente atua como <b><a href="https://bit.ly/2GSYLwI">Microsoft MVP em Developer Technologies</a></b>.
+  Assim sendo, atuando como Evangelista Técnica de novas linguagens de programação,
+  em especial em projetos <b>Open Source</b>. Atua como <b><a href="https://github.com/nodejs/nodejs-pt">Member & Contributor no Node.js
+  Foundation</a></b> e no <b><a href="https://github.com/reactjs">React Community</a></b> realizando contribuições
+  nas traduções do site <b><a href="https://nodejs.org/">Nodejs.org</a></b> e <b><a href="https://reactjs.org/">Reactjs.org</a></b> para   o português.
+  Também atua como: <b><a href="https://codersinrio.com.br/">Community Leader & Tech Speaker do Meetup Coders in Rio</a></b>,
+  <b><a href="https://imasters.com.br/perfil/glaucialemos/">Technical Author no Portal iMasters</a></b> e
+  <b><a href="http://womakerscode.org/">Volunteer & Tech Speaker do WoMakersCode</a></b>.
+</p>
 
 
 ## 👏 Salve Salve Todos! 

@@ -87,7 +87,9 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 
 - ☑️ 01/2019 - **[Explorando T.I](https://www.youtube.com/watch?v=GminGcR4rOU&t=4s)**
 - ☑️ 02/2019 - **[GDG Rio - #2 Meetup](http://meetu.ps/e/Gn00K/wyD7Q/d)**
+- 
 - ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
+- ☑️ 04/2019 - **[TDC Floripa 2019](http://www.thedevelopersconference.com.br/tdc/2019/index.html)**
 
 
 ### Palestras em 2018:

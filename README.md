@@ -1,22 +1,15 @@
 # Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos 
 
 <p align="center">
-  <img src="https://i.imgsafe.org/8e/8e95f00340.png"/>  
+  <img src="https://i.postimg.cc/7Yx0NP5v/perfil-glaucia-2019.png"/>  
 </p>
 
 
 ## ⚡️ Mini Bio: Glaucia Lemos
 <p align="justify">
-  Glaucia Lemos é Software Developer com especialização em .NET & Node.js/Javascript com experiência nacional e
-  internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
-  Trabalhando com diferentes tecnologias, metodologias, frameworks e linguagens de programação,
-  tais como: C# .NET, Node.Js, JavaScript, Angular, Vue.Js, ChatBots, AI e entre outros.
-  Atualmente atua como <b><a href="https://bit.ly/2GSYLwI">Microsoft MVP em Developer Technologies</a></b>.
-  Assim sendo, atuando como Evangelista Técnica de novas linguagens de programação,
-  em especial em projetos <b>Open Source</b>. Atua como <b><a href="https://github.com/nodejs/nodejs-pt">Member & Contributor no Node.js
+  Glaucia Lemos é <b>Regional Cloud AdvocateBrasil & LATAM 🥑 na Microsoft</b>. Atua, em especial em projetos <b>Open Source</b>. Atua   como <b><a href="https://github.com/nodejs/nodejs-pt">Member & Contributor no Node.js
   Foundation</a></b> e no <b><a href="https://github.com/reactjs">React Community</a></b> realizando contribuições
-  nas traduções do site <b><a href="https://nodejs.org/">Nodejs.org</a></b> e <b><a href="https://reactjs.org/">Reactjs.org</a></b> para   o português.
-  Também atua como: <b><a href="https://codersinrio.com.br/">Community Leader & Tech Speaker do Meetup Coders in Rio</a></b>,
+  nas traduções do site <b><a href="https://nodejs.org/">Nodejs.org</a></b> e <b><a href="https://reactjs.org/">Reactjs.org</a></b> para   o português.Também atua como: <b><a href="https://codersinrio.com.br/">Community Leader & Tech Speaker do Meetup Coders in Rio</a>       </b>,
   <b><a href="https://imasters.com.br/perfil/glaucialemos/">Technical Author no Portal iMasters</a></b> e
   <b><a href="http://womakerscode.org/">Volunteer & Tech Speaker do WoMakersCode</a></b>.
 </p>
@@ -87,6 +80,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 
 - ☑️ 01/2019 - **[Explorando T.I](https://www.youtube.com/watch?v=GminGcR4rOU&t=4s)**
 - ☑️ 02/2019 - **[GDG Rio - #2 Meetup](http://meetu.ps/e/Gn00K/wyD7Q/d)** 
+- ☑️ 03/2019 - **[Data Day México - Cidade do México](https://sg.com.mx/dataday/)**
 - ☑️ 03/2019 - **[WoMakersCode Summit Rio 2019](http://bit.ly/womakerscodesummitrio2019)**
 - ☑️ 04/2019 - **[MVP Conf LATAM 2019](https://www.mvpconf.com.br)**
 - ☑️ 04/2019 - **[TDC Floripa 2019](http://www.thedevelopersconference.com.br/tdc/2019/index.html)**

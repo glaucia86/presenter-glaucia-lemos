@@ -1,7 +1,7 @@
 # Glaucia Lemos - Termos para Realização de Palestras e Workshops em Conferências & Eventos 
 
 <p align="center">
-  <img src="https://i.postimg.cc/7Yx0NP5v/perfil-glaucia-2019.png"/>  
+  <img src="https://i.postimg.cc/YCv312Pr/thumbnail-perfil-glaucia-2019.png"/>  
 </p>
 
 

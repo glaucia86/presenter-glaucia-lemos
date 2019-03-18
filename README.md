@@ -167,8 +167,8 @@ Gosto de estar presente em eventos e especialmente poder compartilhar o meu conh
 ## 💾 Informações Pessoais:
 
 * **Nome:** Glaucia Lemos
-* **Empresa:** [HackDev](https://www.linkedin.com/company/hackdev/)
-* **Profissão:** Software Developer | Microsoft MVP in Developer Technologies
+* **Empresa:** [Microsoft](www.microsoft.com)
+* **Profissão:** Regional Cloud Advocate Brasil & LATAM
 * **Twitter:** [@glaucia_lemos86](https://twitter.com/glaucia_lemos86)
 * **Blog/Homepage:** https://code4coders.wordpress.com/
 * **Canal do Youtube:** https://www.youtube.com/user/l32759

@@ -108,7 +108,7 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 - ☑️ 11/2018 - **[Coders in Rio Summit 2018](https://www.meetup.com/pt-BR/Coders-in-Rio/events/255061646/)**
 - ☑️ 11/2018 - **[Global Office 365 Developer Bootcamp Brazil, Rio de Janeiro](https://www.eventbrite.com/e/2018-global-office-developer-bootcamp-rio-tickets-49226805701)**
 - ☑️ 12/2018 - **[Front-end Study Group #2 - Mentory](https://www.sympla.com.br/front-end-study-group-2__393341)**
-- ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/pt-br/ignite-the-tour/)**
+- ☑️ 12/2018 - **[Microsoft Ignite The Tour 2018 - São Paulo](https://www.microsoft.com/ignite-the-tour/?WT.mc_id=javascript-0000-gllemos)**
 - ☑️ 12/2018 - **[Global AI Bootcamp - Rio de Janeiro](https://www.globalaibootcamp.com/)**
 
 

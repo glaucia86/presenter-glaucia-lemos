@@ -135,6 +135,12 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 * **Onde:** Online - Worldwide
 * **Participantes:** ≈5000
 * **Link Transmissão:** [AQUI](https://myignite.microsoft.com/sessions/c195ef6a-defa-4b77-abe5-a425d505f736?WT.mc_id=javascript-0000-gllemos)
+
+## [Microsoft Ignite 2020](https://www.microsoft.com/en-us/ignite)
+* **Quando:** 22-24/09
+* **Onde:** Online - Worldwide
+* **Participantes:** ≈5000
+* **Link Transmissão:** [AQUI](https://myignite.microsoft.com/sessions/c195ef6a-defa-4b77-abe5-a425d505f736)
 * **Tema:** The Cloud is More than Just that Thing in the Sky - Learning Zone Session
 
 ## [Code Con 2020](https://codecon.dev/)
@@ -266,17 +272,20 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 * **Participantes:** ≈40
 * **Tema:** Criando Aplicações Escalaveis com MEAN + Arquitetura Serverless
 
+
 ## [Ignite The Tour - São Paulo](https://www.microsoft.com/ignite?WT.mc_id=javascript-0000-gllemos)
 * **Quando:** 12/12 - 14/12
 * **Onde:** São Paulo, SP - Brasil
 * **Participantes:** ≈5000
 * **Tema:** Options for Data in the Cloud
 
+
 ## [Ignite The Tour - São Paulo](https://www.microsoft.com/ignite?WT.mc_id=javascript-0000-gllemos)
 * **Quando:** 12/12 - 14/12
 * **Onde:** São Paulo, SP - Brasil
 * **Participantes:** ≈5000
 * **Tema:** 15 Minutes: Azure and the command line – options, tips and tricks
+
 
 ## [Ignite The Tour - São Paulo](https://www.microsoft.com/ignite?WT.mc_id=javascript-0000-gllemos)
 * **Quando:** 12/12 - 14/12
@@ -290,11 +299,13 @@ Aqui vai uma lista de participações e eventos que já tive o prazer de realiza
 * **Participantes:** ≈40
 * **Tema:** Criando APIs escaláveis com Node.js & Serverless
 
+
 ## [Ignite The Tour - Orlando](https://www.microsoft.com/ignite?WT.mc_id=javascript-0000-gllemos)
 * **Quando:** 05/11
 * **Onde:** Orlando, FL - USA
 * **Participantes:** ≈5000
 * **Tema:** Live Coding + Talk: Migrating MEAN App to Azure Functions in few Minutes!
+
 
 ## [Ignite The Tour - Orlando](https://www.microsoft.com/ignite?WT.mc_id=javascript-0000-gllemos)
 * **Quando:** 04/11
